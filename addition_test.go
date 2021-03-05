@@ -6,6 +6,6 @@ import(
 )
 
 func TestAddition(t *testing.T){
-	sum := Addition(4.0, 3.0)
-	assert.Equal(t, 7.0, sum, "Sum not the same")
+	sum := Addition(4, 3)
+	assert.Equal(t, 7, sum, "Sum not the same")
 }
