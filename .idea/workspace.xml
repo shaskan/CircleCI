@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565111a2-ae01-4a5e-8dd7-c66983cc49aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addition.go" beforeDir="false" afterPath="$PROJECT_DIR$/addition.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addition_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/addition_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,7 @@
   <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1k0Wg0jfQV8f3rdxL2B0eNSQVOv" />
   <component name="ProjectViewState">
@@ -51,26 +54,8 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="512" y="371" key="#GOROOT" timestamp="1604838174515">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="512" y="371" key="#GOROOT/0.23.1440.822@0.23.1440.822" timestamp="1604838174515" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1604838219386">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1604838219386" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1604838219384">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1604838219384" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1604838219384">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1604838219384" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1604838219385">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1604838219385" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="correct repo name" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct repo name" />
   </component>
 </project>

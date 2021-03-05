@@ -1,8 +1,5 @@
-package main
-import (
-	"fmt"
-)
+package addition
 
-func main(a, b int) int {
+func Addition(a, b float64) float64 {
 	return a + b
 }
